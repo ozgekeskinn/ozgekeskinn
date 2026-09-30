@@ -32,7 +32,7 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,bootstrap" />
 
 <br/><br/>
 
